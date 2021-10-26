@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Facanha10
-- 👀 I’m interested in become a Junior Developer
+- 👀 I’m interested in becoming a Junior Developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Zero To Mastery projects
 - 📫 How to reach me @PedroFacanha
